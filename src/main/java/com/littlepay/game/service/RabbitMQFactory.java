@@ -6,8 +6,8 @@
  * specific written permission of Quant Pty. Ltd. All rights reserved.
  *  
  * 
- * RabbitMQFactory.java - com.datacenter.factory
- * @author Long Xu, 2Feb.,2017
+ * RabbitMQFactory.java - com.littlepay.game.service
+ * @author Long Xu, 12Feb.,2017
 ******************************************************/
 package com.littlepay.game.service;
 
