@@ -6,7 +6,7 @@
  * specific written permission of Quant Pty. Ltd. All rights reserved.
  *  
  * 
- * JedisFactory.java - com.tc.factory
+ * JedisFactory.java - com.littlepay.game.service
  * @author Long Xu, 12Feb.,2017
 ******************************************************/
 package com.littlepay.game.service;
