@@ -1,10 +1,4 @@
 /******************************************************
- * Copyright (c) Quant Pty. Ltd. [2015-2017]
- * Copyright subsists in this code. 
- * Except as permitted under the Copyright Act 1968 (Cth), no part of this 
- * work may be reproduced, published or adapted in any way, without the 
- * specific written permission of Quant Pty. Ltd. All rights reserved.
- *  
  * 
  * LoginController.java - com.littlepay.game.controller
  * @author Long Xu, 12Feb.,2017
