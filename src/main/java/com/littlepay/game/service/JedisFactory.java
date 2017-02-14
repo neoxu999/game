@@ -21,17 +21,17 @@ import redis.clients.jedis.JedisPoolConfig;
  */
 public class JedisFactory {
 
-	// Redis服务器IP
+	// Redis server IP
 	private static String ADDR = "localhost";
 
-	// Redis的端口号
+	// Redis port
 	private static int PORT = 6379;
 
-//	// 访问密码
+//	// password
 //	private static String AUTH = "admin";
 //
-//	// 可用连接实例的最大数目，默认值为8；
-//	// 如果赋值为-1，则表示不限制；如果pool已经分配了maxActive个jedis实例，则此时pool的状态为exhausted(耗尽)。
+//	// Connection max size default 8；
+//	// if set -1，not limitation； If the pool allocate maxActive jedis instance，the pool status exhausted。
 //	private static int MAX_ACTIVE = 1024;
 
 	// 控制一个pool最多有多少个状态为idle(空闲的)的jedis实例，默认值也是8。
