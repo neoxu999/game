@@ -7,7 +7,7 @@
  *  
  * 
  * ScheduleService.java - com.datacenter.service
- * @author Long Xu, 6Feb.,2017
+ * @author Long Xu, 12Feb.,2017
 ******************************************************/
 package com.littlepay.game.service;
 
