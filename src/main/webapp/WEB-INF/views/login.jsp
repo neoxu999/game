@@ -26,7 +26,7 @@
 	<form id="login" action="" method="GET">
 		User name:<input type="text" name="username" /><br /><br /> 
 		Password:<input type="password" name="password" /><br /><br /> 
-		<button type="button" id="btnSignin">Signin</button><br /><br /><br /> 
+		<button type="button" id="btnSignin">Sign in</button><br /><br /><br /> 
 		<button type="button" id="btnNewAccount">Create New Account</button>
 	</form>
 </body>
