@@ -1,7 +1,7 @@
 /******************************************************
  * 
  * RabbitMQListener.java - com.littlepay.game.listener
- * @author Long Xu, 17Feb.,2017
+ * @author Long Xu, 12Feb.,2017
 ******************************************************/
 package com.littlepay.game.listener;
 
