@@ -7,7 +7,7 @@
  *  
  * 
  * JedisFactory.java - com.tc.factory
- * @author Long Xu, 23Jan.,2017
+ * @author Long Xu, 12Feb.,2017
 ******************************************************/
 package com.littlepay.game.service;
 
